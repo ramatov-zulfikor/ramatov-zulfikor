@@ -13,6 +13,9 @@
 ![Git](https://img.shields.io/badge/-Git-24292e?style=for-the-badge&logo=Git "Git")
 ![Linux](https://img.shields.io/badge/-Linux-24292e?style=for-the-badge&logo=Linux "Linux")
 
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramatov-zulfikor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me
 [![VK](https://img.shields.io/badge/-VKontakte-24292e?style=for-the-badge&logo=VK "VK")](https://vk.com/lleon_k)
 [![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/RamatovZulfikor)
