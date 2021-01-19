@@ -1,4 +1,5 @@
-# Hello, Peter
+## Hello :wave:, I'm Zulfikor Ramatov.
+# I'm a Junior Front-End Developer
 
 ![HTML5](https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5 "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-24292e?style=for-the-badge&logo=CSS3 "CSS3")
