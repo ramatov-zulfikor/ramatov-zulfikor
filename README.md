@@ -1,9 +1,9 @@
 # Hello, Peter
 
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux)
+![HTML5](https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5 "HTML5")
+![CSS3](https://img.shields.io/badge/-CSS3-24292e?style=for-the-badge&logo=CSS3 "CSS3")
+![SASS](https://img.shields.io/badge/-SASS-24292e?style=for-the-badge&logo=SASS "SASS")
+![JavaScript](https://img.shields.io/badge/-JavaScript-24292e?style=for-the-badge&logo=JavaScript "JavaScript")
+![React](https://img.shields.io/badge/-React-24292e?style=for-the-badge&logo=React "React")
+![Git](https://img.shields.io/badge/-Git-24292e?style=for-the-badge&logo=Git "Git")
+![Linux](https://img.shields.io/badge/-Linux-24292e?style=for-the-badge&logo=Linux "Linux")
