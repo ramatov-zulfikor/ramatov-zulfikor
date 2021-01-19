@@ -1,8 +1,6 @@
-## Hello :wave:, I'm Zulfikor Ramatov.
+# Hello, I'm a Junior Front-End Developer
 
-# I'm a Junior Front-End Developer
-
-### 2021 Goals:
+### 2021 Goals
 - [ ] Contribute more to Open Source projects
 - [ ] Find a job
 
@@ -16,5 +14,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-24292e?style=for-the-badge&logo=Linux "Linux")
 
 ### Connect with me
-[![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/RamatovZulfikor)
 [![VK](https://img.shields.io/badge/-VKontakte-24292e?style=for-the-badge&logo=VK "VK")](https://vk.com/lleon_k)
+[![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/RamatovZulfikor)
