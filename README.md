@@ -19,3 +19,4 @@
 ### Connect with me
 [![VK](https://img.shields.io/badge/-VKontakte-24292e?style=for-the-badge&logo=VK "VK")](https://vk.com/lleon_k)
 [![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/RamatovZulfikor)
+[![Twitter](https://img.shields.io/badge/-Twitter-24292e?style=for-the-badge&logo=Telegram "Twitter")](https://twitter.com/Lleon_K)
