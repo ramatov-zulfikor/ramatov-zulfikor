@@ -12,12 +12,12 @@
 ![React](https://img.shields.io/badge/-React-24292e?style=for-the-badge&logo=React "React")
 ![Git](https://img.shields.io/badge/-Git-24292e?style=for-the-badge&logo=Git "Git")
 ![Linux](https://img.shields.io/badge/-Linux-24292e?style=for-the-badge&logo=Linux "Linux")
-[![CodePen](https://img.shields.io/badge/-CodePen-24292e?style=for-the-badge&logo=CodePen "CodePen")](https://codepen.io/Lleon)
 
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramatov-zulfikor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
+[![CodePen](https://img.shields.io/badge/-CodePen-24292e?style=for-the-badge&logo=CodePen "CodePen")](https://codepen.io/Lleon)
 [![VK](https://img.shields.io/badge/-VKontakte-24292e?style=for-the-badge&logo=VK "VK")](https://vk.com/lleon_k)
 [![Telegram](https://img.shields.io/badge/-Telegram-24292e?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/RamatovZulfikor)
 [![Twitter](https://img.shields.io/badge/-Twitter-24292e?style=for-the-badge&logo=Twitter "Twitter")](https://twitter.com/Lleon_K)
