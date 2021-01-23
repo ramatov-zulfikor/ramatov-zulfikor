@@ -3,6 +3,7 @@
 ### 2021 Goals
 - [ ] Contribute more to Open Source projects
 - [ ] Find a job
+- [ ] Read 50 books
 
 ### Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-24292e?style=for-the-badge&logo=HTML5 "HTML5")
